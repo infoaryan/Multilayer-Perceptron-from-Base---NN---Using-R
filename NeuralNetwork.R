@@ -1,5 +1,3 @@
-# Name: Aryan Verma, Student  Number: s2512060
-
 # Function to compute η(r)
 # Input - number
 # Output - number
